@@ -3,9 +3,12 @@
 ## Overview
 The scraper is used to collect data points of property data on a widely used real estate platform.
 
-Overview
+# Eduscraper
 
-The Eduscraper command line interface (CLI):
+## Overview
+The eduscraper is used to collect student data points from LinkedIn based on provided school.
+
+### The Eduscraper command line interface (CLI):
 
 Ingests CSV files of students (with first name, last name, and email)
 Uses a long-running process to enrich student data (with school, degree, start year, end year)
