@@ -1,9 +1,9 @@
-# Web Scraper
+# 1. Web Scraper
 
 ## Overview
 The scraper is used to collect data points of property data on a widely used real estate platform.
 
-# Eduscraper
+# 2. Eduscraper
 
 ## Overview
 The eduscraper is used to collect student data points from LinkedIn based on provided school.
